@@ -1,0 +1,26 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin-top: 120px;
+    padding: 0 104px;
+}
+
+.carts-container{
+    background: rgba(255, 153, 0, 0.3)
+}
+.carts-container h2{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 30px;
+    color: #1C2B35;
+    text-align: center;
+    margin-top: 28px;
+    
+}
