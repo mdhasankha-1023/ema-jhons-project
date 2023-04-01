@@ -11,16 +11,5 @@
 }
 
 .carts-container{
-    background: rgba(255, 153, 0, 0.3)
-}
-.carts-container h2{
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35px;
-    line-height: 30px;
-    color: #1C2B35;
-    text-align: center;
-    margin-top: 28px;
-    
+    background: rgba(255, 153, 0, 0.3); 
 }
